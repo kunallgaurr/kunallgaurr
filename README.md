@@ -1,20 +1,3 @@
-No. The Markdown you were given is **not fully valid for GitHub README usage** because it contains attributes like:
-
-````markdown
-``` id="vm9qg6"
-````
-
-and
-
-````markdown
-```ts
-````
-
-The `id="..."` attribute is **not valid Markdown syntax** for code fences in GitHub. GitHub will either ignore it or render incorrectly.
-
-Below is a **clean, valid GitHub-compatible README.md** you can copy directly.
-
-````markdown
 # 👋 Hi, I'm Kunal Gaur
 
 Backend developer who enjoys building **scalable APIs, distributed systems, and clean backend architecture**.
@@ -81,9 +64,4 @@ Performance optimization
 
 ⭐ If you find something useful in my repositories, consider giving it a star.
 
-```
-
-This version will render correctly on GitHub.
-
-If you'd like, I can also give you a **much more interactive GitHub profile README** (with animated stats, contribution snake, badges, and dynamic widgets) that looks significantly more impressive.
 ```
