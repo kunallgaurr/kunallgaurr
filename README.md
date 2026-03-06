@@ -31,9 +31,9 @@ System design
 
 ## 📊 GitHub Stats
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunallgaurr\&show_icons=true)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunallgaurr&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunallgaurr\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunallgaurr&layout=compact)
 
 
 ## 🧠 Currently Learning
